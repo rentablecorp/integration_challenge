@@ -2,7 +2,7 @@
 The goal of this challenge is to create a python script that will retrieve and parse a tenant's ledger from Yardi and return their balance and if they are ready for disbursement.
 
 A tenant can have two types of transactions:
-* Charges need to be payed by the tenant. They increase the balance.
+* Charges need to be paid by the tenant. They increase the balance.
 * Payments are made by the tenant. They decrease the balance.
 
 There are two requirements for a tenant to be ready for disbursement:
